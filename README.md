@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Balaji Thukuntala, a passionate mobile app developer with expertise in both native Android and Flutter. With a strong foundation in computer science and hands-on experience in creating versatile and user-friendly applications, I love bringing innovative ideas to life.<br>I'm currently focused on enhancing my skills in Android development and exploring the latest in mobile tech. Check out my projects and contributions below, and feel free to connect with me for collaborations or just to chat about tech!
+Hi there! 👋 I'm Balaji Thukuntala, a passionate mobile app developer with experience in both native Android and Flutter. With a strong foundation in computer science and hands-on experience in creating versatile and user-friendly applications, I love bringing innovative ideas to life.<br>I'm currently focused on enhancing my skills in Android development and exploring the latest in mobile tech. Check out my projects and contributions below, and feel free to connect with me for collaborations or just to chat about tech!
 
 
 ## 🌐 Socials:
